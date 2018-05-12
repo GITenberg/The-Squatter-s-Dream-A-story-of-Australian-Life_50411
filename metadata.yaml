@@ -1,4 +1,8 @@
 _repo: The-Squatter-s-Dream-A-story-of-Australian-Life_50411
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50411-h/images/cover.jpg
 creator:
   author:
     agent_name: Boldrewood, Rolf
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/549
     wikipedia: http://en.wikipedia.org/wiki/Rolf_Boldrewood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50411#The-Squatter-s-Dream-A-story-of-Australian-Life
 gutenberg_issued: '2015-11-08'
 gutenberg_type: Text
 identifiers:
